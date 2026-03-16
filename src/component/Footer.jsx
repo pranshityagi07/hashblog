@@ -61,7 +61,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="border-t border-gray-200 py-6 text-center text-sm text-gray-500">
-        © {currentYear} Hashblog — Built for creators & developers.
+        © {currentYear} Hashblog — Built by <a href="https://pranshidev.vercel.app/">Pranshi Tyagi</a>
       </div>
     </footer>
   );

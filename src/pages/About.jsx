@@ -1,5 +1,4 @@
 import React from "react";
-import { assets } from "../assets/assets";
 
 const About = () => {
   return (
@@ -92,7 +91,7 @@ const About = () => {
             About the Developer
           </h2>
           <p className="mb-4">
-            Hashblog was built by <strong>Pranshi Tyagi</strong>, a passionate developer who
+            Hashblog was built by <a href="https://pranshidev.vercel.app/"><strong>Pranshi Tyagi</strong></a>, a passionate developer who
             is currently learning full-stack web development using the MERN stack
             (MongoDB, Express.js, React, Node.js).
           </p>
